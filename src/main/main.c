@@ -943,7 +943,7 @@ int main(int argc, char **argv){
 
          case 'v':
 
-            fprintf(stdout, "\nVersao 1.3\nFinalizado em: 19 de Abril de 2021 as 16h46\nAutor: Vitor Vidal\n");
+            fprintf(stdout, "\nVersao 1.4\nFinalizado em: 19 de Abril de 2021 as 16h46\nAutor: Vitor Vidal\n");
 
          break;
 
